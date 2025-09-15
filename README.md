@@ -5,7 +5,7 @@
 
 I'm a dedicated **Digital Development Student** at **ISAG** and currently part of the **ALX Backend Program**, focusing on **Backend Development**. I'm passionate about technology, love reading, and aim to become a **Cloud Engineer** in the future.
 
-- 🌱 Currently learning: **Backend development, Linux, and Cloud basics, and React**
+- 🌱 Currently learning: **Backend development, Linux, and Cloud basics, React, and laravel**
 - 🌍 Languages: **Arabic, French, English, Amazigh**
 - 📚 **Reading fantasy books — especially George R.R. Martin's epic worlds!****
 - 📫 How to reach me: **ya817412@gmail.com**
